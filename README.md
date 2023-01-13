@@ -2,7 +2,7 @@
 <div display="inline_block"> 
   <h1>Olá, seja bem-vindo(a)!<img align="center" alt="cathand-Js" height="30" width="40" src="https://user-images.githubusercontent.com/100048908/212252636-1d20ada1-aa24-4fc5-b36c-67c1d694fd89.gif">                                    
   <a href="https://www.instagram.com/miguelazuos/" target="_blank"><img align="right" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:miguelazuoss@gmail.com"><img align="right" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "miguelazuoss@gmail.com"><img align="right" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/miguel-augusto-3319b9227/" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  </h1>  
   
 </div>
