@@ -16,6 +16,40 @@
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=miguelazuoss&bg_color=0d1117&color=02e8d9&line=3fa6d9&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   ##
+  ###  Linguagens e ferramentas utilizadas por mim!!
+  <div style="display: inline_block" align="center"><br>
+   <a href="https://www.google.com/search?q=javascript">
+     <img align="center" alt="Icon-Js" height="30" width="40"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+   <a href="https://www.google.com/search?q=html">
+     <img align="center" alt="Icon-HTML" height="30" width="40"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+   <a href="https://www.google.com/search?q=css">
+      <img align="center" alt="Icon-CSS" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+   <a href="https://www.google.com/search?q=react">
+      <img align="center" alt="Icon-React" height="30" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+   <a href="https://www.google.com/search?q=trello">
+     <img align="center" alt="Icon-Trello" height="30" width="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" ></a>
+   <a href="https://www.google.com/search?q=redux">
+      <img align="center" alt="Icon-Redux" height="30" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></a>
+  <a href="https://www.google.com/search?q=jest">
+     <img align="center" alt="Icon-Jest" height="30" width="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"></a>
+   <a href="https://www.google.com/search?q=reactrouter">
+     <img align="center" alt="Icon-ReactRouter" height="30" width="40"
+      src="https://reactrouter.com/_brand/react-router-mark-color.png"></a>
+   <a href="https://www.google.com/search?q=react+testing+libray">
+     <img align="center" alt="Icon-RTL" height="30" width="40"
+      src="https://api.iconify.design/logos/testing-library.svg"></a>
+   <a href="https://www.google.com/search?q=slack">
+     <img align="center" alt="Icon-Slack" height="30" width="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" ></a>
+  </div>
+ </div>
 <!--
 **miguelazuoss/miguelazuoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
