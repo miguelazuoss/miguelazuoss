@@ -22,7 +22,7 @@
   </ul>
   
  ##
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miguelazuosstheme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miguelazuoss&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   ##
   ### <div align="center"><img align="center" alt="cathand-Js" height="30" width="40" src="https://user-images.githubusercontent.com/100048908/212257023-dbcc204f-48f7-4e65-8334-8feb3410051e.gif"> Linguagens e ferramentas utilizadas por mim<img align="center" alt="cathand-Js" height="30" width="40" src="https://user-images.githubusercontent.com/100048908/212256291-8cbd5002-9efd-4413-a828-174b30769b34.gif"> </div>
