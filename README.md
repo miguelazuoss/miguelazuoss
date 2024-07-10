@@ -16,8 +16,8 @@
   <ul> 
     <li> Meu nome é Miguel Augusto, tenho 21 anos!</li>
     <li> Natural de Natal(RN), morando em Timbó Santa Catarina!</li>
-    <li> Estudante de Desenvolvimento Web Full-Stack na <a href="https://www.betrybe.com/">Trybe</a>.</li>
-    <li> Estudante de Segurança da Informação na <a href="https://portal.uniasselvi.com.br/?gclid=Cj0KCQiA_P6dBhD1ARIsAAGI7HAj4aBX-2B99VyJqnRKrxzQDuaXlfB0RjlK-hRqPrD7NJfzG60VLogaApFREALw_wcB#!">Uniasselvi</a>.</li>
+    <li> Estudante de Desenvolvimento do Senai</a>.</li>
+    <li> Estudante de Analise de Sistemas na Uninter.</li>
   <li> Gosto de fotografar, escutar música, ler mangás e principalmente mexer no computador!</li>
   </ul>
   
