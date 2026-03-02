@@ -14,7 +14,7 @@
 ### Sobre mim:
 
   <ul> 
-    <li> Meu nome é Miguel Augusto, tenho 21 anos!</li>
+    <li> Meu nome é Miguel Augusto, tenho 24 anos!</li>
     <li> Natural de Natal(RN), morando em Timbó Santa Catarina!</li>
     <li> Estudante de Desenvolvimento do Senai</a>.</li>
     <li> Estudante de Analise de Sistemas na Uninter.</li>
